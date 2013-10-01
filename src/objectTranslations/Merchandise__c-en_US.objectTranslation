@@ -14,6 +14,10 @@
         <name>Description__c</name>
     </fields>
     <fields>
+        <label><!-- Introduced on --></label>
+        <name>Introduced_on__c</name>
+    </fields>
+    <fields>
         <label><!-- Price --></label>
         <name>Price__c</name>
     </fields>

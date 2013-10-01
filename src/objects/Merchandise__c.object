@@ -46,6 +46,14 @@
         <type>TextArea</type>
     </fields>
     <fields>
+        <fullName>Introduced_on__c</fullName>
+        <defaultValue>TODAY()</defaultValue>
+        <externalId>false</externalId>
+        <label>Introduced on</label>
+        <required>false</required>
+        <type>Date</type>
+    </fields>
+    <fields>
         <fullName>Price__c</fullName>
         <externalId>false</externalId>
         <label>Price</label>

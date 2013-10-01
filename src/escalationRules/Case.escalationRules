@@ -46,7 +46,7 @@
             <criteriaItems>
                 <field>Case.Priority</field>
                 <operation>equals</operation>
-                <value>Medium,Low</value>
+                <value>Low,Medium</value>
             </criteriaItems>
             <escalationAction>
                 <assignedTo>asmithdev12@salesforce.com</assignedTo>
@@ -102,7 +102,7 @@
             <criteriaItems>
                 <field>Case.Priority</field>
                 <operation>equals</operation>
-                <value>Medium,Low</value>
+                <value>Low,Medium</value>
             </criteriaItems>
             <escalationAction>
                 <assignedTo>asmithdev12@salesforce.com</assignedTo>
@@ -171,7 +171,7 @@
             <criteriaItems>
                 <field>Account.SLA__c</field>
                 <operation>equals</operation>
-                <value>Gold,Platinum</value>
+                <value>Platinum,Gold</value>
             </criteriaItems>
             <escalationAction>
                 <assignedTo>asmithdev12@salesforce.com</assignedTo>
@@ -194,7 +194,7 @@
             <criteriaItems>
                 <field>Account.SLA__c</field>
                 <operation>equals</operation>
-                <value>Silver,Bronze</value>
+                <value>Bronze,Silver</value>
             </criteriaItems>
             <escalationAction>
                 <assignedTo>asmithdev12@salesforce.com</assignedTo>

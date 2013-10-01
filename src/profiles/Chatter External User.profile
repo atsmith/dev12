@@ -862,6 +862,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Merchandise__c.Introduced_on__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Merchandise__c.Price__c</field>
         <readable>false</readable>
     </fieldPermissions>

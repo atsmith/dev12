@@ -99,9 +99,6 @@
         <name>Document</name>
     </types>
     <types>
-        <name>EmailTemplate</name>
-    </types>
-    <types>
         <members>Case</members>
         <name>EscalationRules</name>
     </types>
