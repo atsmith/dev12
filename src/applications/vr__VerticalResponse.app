@@ -13,4 +13,5 @@
     <tab>vr__VREmail</tab>
     <tab>vr__VRPostcard</tab>
     <tab>vr__VRStatistics</tab>
+    <tab>Work__c</tab>
 </CustomApplication>
